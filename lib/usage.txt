@@ -1,0 +1,8 @@
+
+Usage: judge-forge <command>
+
+Where <command> can be:
+  setup, run
+
+judge-forge setup     initializes the repo with deps and compiles
+judge-forge run       compiles and tests contracts with forge
