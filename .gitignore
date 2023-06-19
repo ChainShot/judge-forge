@@ -1,6 +1,11 @@
 !.gitignore
 node_modules
 artifacts
-content
+/content
+!/content/foundry.toml
+!/content/src
+!/content/src/*
+!/content/test
+!/content/test/*
 cache
 .env
