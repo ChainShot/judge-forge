@@ -5,4 +5,4 @@ libs = ["lib"]
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
 
-solc = "cache/compilers/solc-v0.8.20+commit.a1b79de6"
+solc = "/usr/local/node-16.15.1/bin/node_modules/judge-forge/content/compilers/solc-v0.8.20+commit.a1b79de6"
